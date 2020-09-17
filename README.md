@@ -1,4 +1,4 @@
-* I'm a French freshly graduated data scientist and software engineer.
+### I'm a French freshly graduated data scientist and software engineer.
 
 * I use daily : .py, .js, .ts, .html, .css, .sh
 
