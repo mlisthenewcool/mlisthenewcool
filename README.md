@@ -6,6 +6,6 @@
 
 * Before, I worked at Watchever - now merged with [DailyMotion](https://www.dailymotion.com/) - and [QARMA](https://qarma.lis-lab.fr/)
 
-* How to reach me : contact at firstname-name.com
+* How to reach me : contact at hippolyte-debernardi.com
 
 * For more repositories, you can check mlisthenewcool-{boilerplate,old,websites}
