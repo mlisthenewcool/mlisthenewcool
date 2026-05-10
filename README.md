@@ -10,15 +10,15 @@
 
 ### Stack technique
 
-- **Python**           : Polars · Pandas · FastAPI · Pydantic · Pytest
-- **SQL**              : PostgreSQL/PostGIS · DuckDB
-- **Data Engineering** : Airflow, dbt, Spark
-- **Cloud**            : GCP - BigQuery · Cloud Run · Cloud Scheduler · Cloud Composer
-- **DevOps**           : Docker · CI/CD · GitHub Actions · Linux
+- **Python** ............. Polars · Pandas · FastAPI · Pydantic · Pytest
+- **SQL** ................ PostgreSQL/PostGIS · DuckDB
+- **Data Engineering** ... Airflow, dbt, Spark
+- **Cloud** .............. GCP - BigQuery · Cloud Run · Cloud Scheduler · Cloud Composer
+- **DevOps** ............. Docker · CI/CD · GitHub Actions · Linux
 
 ### Expériences
 
-Précédemment, j'ai travaillé sur des SaaS ou dans des équipes de R&D chez Sightness, MSC Software (désormais intégré au groupe Hexagon), Dailymotion.
+Précédemment, j'ai travaillé sur des SaaS ou dans des équipes de R&D chez Sightness, MSC Software (Hexagon), Watchever (Dailymotion).
 
 ### Me contacter
 
